@@ -11,3 +11,6 @@ https://www.mybudget.go.kr/natnFnnc/myIdeaList
 청와대 국민청원 및 제안 목록 웹 크롤링
 
 https://www1.president.go.kr/petitions
+
+
+by github.com/euphoria96
